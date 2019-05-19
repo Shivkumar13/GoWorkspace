@@ -1,6 +1,6 @@
-package GoWorkspace
+package goWorkspace
 
-import main
+import fmt
 
 func main() {
   

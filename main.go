@@ -1,9 +1,9 @@
-package goWorkspace
+package main
 
-import fmt
+import "fmt"
 
 func main() {
-  
-     fmt.Println("Hello World from new file")
 
-} 
+	fmt.Println("shivkumar")
+
+}

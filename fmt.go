@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 
+//Testing for GoLandDemo
 var y = 22 
 
 // print TYPE

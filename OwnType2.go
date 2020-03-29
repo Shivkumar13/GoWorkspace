@@ -7,8 +7,11 @@ var a int
 
 type hotdog int 
 
+var s string = "shiva"
+
 var b hotdog 
 
+var t string
 
 func main() {
 
@@ -23,6 +26,12 @@ func main() {
 	fmt.Println(b)
 
 	fmt.Printf("%T\n",b)
+
+	fmt.Println(s)
+
+	t = fmt.Sprintf("%v\n",s)
+
+	fmt.Println(t)
 
 // ./OwnType2.go:27:3: cannot use b (type hotdog) as type int in assignment
 

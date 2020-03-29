@@ -9,6 +9,8 @@ type hotdog int
 
 var s string = "shiva"
 
+// string is Shiva
+
 var b hotdog 
 
 var t string

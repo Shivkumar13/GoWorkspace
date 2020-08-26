@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+//testing
 var x int
 
 type hotdog int

@@ -1,2 +1,0 @@
-# GoWorkspace
-Go Programs

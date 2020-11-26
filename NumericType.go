@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 var x int8 = -43
 
@@ -12,6 +14,10 @@ func main() {
 
 	// int8 in turn known as signed int so that you can use the values (-128-127)
 	//8,16,32,64 are just sizes
+
+	//int32 optimized for 32 bit systems
+	//int64 optimized for 64 bit systems
+
 	fmt.Println("Printing x and y")
 
 	fmt.Println(x, y)

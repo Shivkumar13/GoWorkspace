@@ -18,8 +18,5 @@ func main() {
 	//int32 optimized for 32 bit systems
 	//int64 optimized for 64 bit systems
 
-	fmt.Println("Printing x and y")
-
 	fmt.Println(x, y)
-
 }

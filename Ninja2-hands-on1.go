@@ -7,6 +7,6 @@ import (
 func main() {
 
 	a := 10
-	fmt.Printf("%d\t%b\t%#U\n", a, a, a)
+	fmt.Printf("%d\t%b\t%#x\n", a, a, a)
 
 }

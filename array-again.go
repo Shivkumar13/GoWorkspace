@@ -12,4 +12,5 @@ func main() {
 	x[3] = 42
 	fmt.Println(x)
 	fmt.Println(len(x))
+
 }

@@ -7,6 +7,7 @@ import (
 func main() {
 
 	foo()
+	bar("Shiva", "Ople")
 
 }
 
@@ -15,4 +16,11 @@ func main() {
 func foo() {
 
 	fmt.Println("Hello From Foo")
+}
+
+func bar(s string, t string) {
+
+	fmt.Println("Hello", s)
+	fmt.Println("Hello", t)
+
 }

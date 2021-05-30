@@ -10,7 +10,7 @@ func main() {
 
 	func() {
 		fmt.Println("Anonymous Func RAN")
-	}
+	}()
 
 	func(x int) {
 

@@ -40,5 +40,3 @@ func main() {
 		fmt.Println(ok)
 	}
 }
-
-//		fmt.Println("The value is present", )

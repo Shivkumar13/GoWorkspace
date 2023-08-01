@@ -12,7 +12,6 @@ func main() {
 		}
 		fmt.Print("\n")
 		count--
-
 	}
 
 }
